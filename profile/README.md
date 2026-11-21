@@ -19,10 +19,6 @@ an anime room, a 10-foot Big Picture mode, music, games, and a theme engine that
 ![Rust](https://img.shields.io/badge/Rust-core-DEA584?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1a1a) &nbsp;
 ![Platforms](https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-8a8a8a?style=for-the-badge&labelColor=1a1a1a)
 
-<br/>
-
-<img src="./media/hero.png" width="860" alt="Cave home screen">
-
 </div>
 
 <br/>
