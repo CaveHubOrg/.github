@@ -9,7 +9,8 @@
 ### A Stremio client built for adventure
 
 A native libmpv player, a Rust stream ranking engine, watch parties, Live TV with DVR,<br/>
-an anime room, a 10-foot Big Picture mode, music, games, and a theme engine that reshapes the whole app.
+an anime room, a 10-foot Big Picture mode, music, games, and a theme engine that reshapes the whole app.<br/>
+Cave uses Trakt but is not endorsed or certified by Trakt.
 
 <br/>
 
