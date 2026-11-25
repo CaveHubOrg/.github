@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./media/cave-wordmark-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./media/cave-wordmark-light.svg">
-  <img src="./media/cave-wordmark-light.svg" width="300" alt="Cave">
+  <img src="./media/cave-wordmark-light.svg" width="240" alt="Cave">
 </picture>
 
 ### Movies, shows, anime, live TV, manga and music. One app, watched together.
